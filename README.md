@@ -1,2 +1,10 @@
-# DayZ-OpenSource
-Here are some of the DayZ mods I've worked on; some are completed, others not. Not all follow best practices, and some are buggy due to DayZ updates over the years. However, they should help anyone interested in starting to create something (the most recent ones were made with AI [using my custom agents], the older ones were not).
+- [DayZ-OpenSource](https://github.com/c-Morette/DayZ-OpenSource)
+- [DayZModsWIP](https://github.com/c-Morette/DayZModsWIP)
+- [Exodus_BaseBuild](https://github.com/c-Morette/Exodus_BaseBuild)
+- [Askal_DynamicBook](https://github.com/c-Morette/Askal_DynamicBook)
+- [Askal_InsuranceMod](https://github.com/c-Morette/Askal_InsuranceMod)
+- [Askal_SafeContainer](https://github.com/c-Morette/Askal_SafeContainer)
+- [KeepItDead](https://github.com/c-Morette/KeepItDead)
+- [KrydenRewardsDayZ](https://github.com/c-Morette/KrydenRewardsDayZ)
+- [FurnitureKits](https://github.com/c-Morette/FurnitureKits)
+- [MyMaintenanceMod](https://github.com/c-Morette/MyMaintenanceMod)
