@@ -78,6 +78,17 @@ Here are some of the DayZ mods I've worked on. Some are completed, others are st
 
 ---
 
+### 🧱 [Kryden Base Kits](https://github.com/c-Morette/Kryden-Base-Kits)
+**Placeable Building Kits** - Players place vanilla buildings and props anywhere from a kit item, with 3D rotation, height control and persistence across restarts. Includes expiration by date and an admin menu. Requires Community Framework.
+
+> ⚠️ **Status:** Unfinished source, no longer developed. Not on the Steam Workshop.
+
+| | Link |
+|---|---|
+| 🔗 Repository | [GitHub](https://github.com/c-Morette/Kryden-Base-Kits) |
+
+---
+
 ### 📦 [Askal_InsuranceMod](https://github.com/c-Morette/Askal_InsuranceMod)
 **Item Insurance System** - Adds a complete item insurance system allowing players to protect valuable equipment from loss due to death. Includes an administrative interface.
 
