@@ -2,7 +2,16 @@
 
 Here are some of the DayZ mods I've worked on. Some are completed, others are still in development. Not all follow best practices, and some may be buggy due to DayZ updates over the years. However, they should help anyone interested in starting to create something!
 
-> **Note:** The most recent mods were made with AI assistance (using custom agents). Older ones were developed manually.
+> **Note:** The most recent mods were made with AI assistance (using custom agents). Older ones were developed manually. The agents and tools are public in the AI toolkit below.
+
+---
+
+## 🤖 [Kryden DayZ AI Toolkit](https://github.com/c-Morette/kryden-dayz-ai-toolkit)
+**Skills, agents and tools for making DayZ mods with AI** - A plugin for Claude Code and OpenAI Codex: a catalog of DayZ and Enforce Script traps that fail without a log line, a 3D model to wearable item pipeline (Model Forge) and a DayZ UI design system (work in progress).
+
+| | Link |
+|---|---|
+| 🔗 Repository | [GitHub](https://github.com/c-Morette/kryden-dayz-ai-toolkit) |
 
 ---
 
@@ -59,6 +68,16 @@ Here are some of the DayZ mods I've worked on. Some are completed, others are st
 
 ---
 
+### 🎒 [Kryden Loot System](https://github.com/c-Morette/Kryden-Loot-System)
+**Searchable Loot Storages** - Replaces the loot on building floors with searchable storages (backpacks, crates, medical kits, weapon crates), calibrated against the vanilla Central Economy. No dependencies.
+
+| | Link |
+|---|---|
+| 🔗 Repository | [GitHub](https://github.com/c-Morette/Kryden-Loot-System) |
+| 🎮 Steam Workshop | [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=3821627706) |
+
+---
+
 ### 📦 [Askal_InsuranceMod](https://github.com/c-Morette/Askal_InsuranceMod)
 **Item Insurance System** - Adds a complete item insurance system allowing players to protect valuable equipment from loss due to death. Includes an administrative interface.
 
@@ -68,25 +87,6 @@ Here are some of the DayZ mods I've worked on. Some are completed, others are st
 |---|---|
 | 🔗 Repository | [GitHub](https://github.com/c-Morette/Askal_InsuranceMod) |
 | 🎮 Steam Workshop | [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=3553577226) |
-
----
-
-### 📦 [FurnitureKits](https://github.com/c-Morette/FurnitureKits)
-**Storage Mod** - Very old storage mod.
-
-| | Link |
-|---|---|
-| 🔗 Repository | [GitHub](https://github.com/c-Morette/FurnitureKits) |
-| 🎮 Steam Workshop | [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=2519713465) |
-
----
-
-### 📝 [DayZModsWIP](https://github.com/c-Morette/DayZModsWIP)
-**Work in Progress** - Contains mods for DayZ inspired by the old game WarZ / Infestation: Survivor Stories (2012). The goal is to recreate and adapt mechanics, objects, and systems to the DayZ environment.
-
-| | Link |
-|---|---|
-| 🔗 Repository | [GitHub](https://github.com/c-Morette/DayZModsWIP) |
 
 ---
 
