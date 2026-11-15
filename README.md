@@ -89,6 +89,17 @@ Here are some of the DayZ mods I've worked on. Some are completed, others are st
 
 ---
 
+### 🔐 [WarZ Locker V2](https://github.com/c-Morette/WarZ-Locker-V2)
+**Personal Lockers** - Players place a locker from a kit and claim it, and only the owner can open it. The owner finds their lockers with a 3D marker (F9) and on the map (BasicMap, Expansion or LBmaster), at any distance. Positions are kept on the server and survive restarts. V2 of the WarZ_Locker in DayZModsWIP.
+
+> ⚠️ **Status:** Tested on a server in May 2026, no longer developed. Not on the Steam Workshop.
+
+| | Link |
+|---|---|
+| 🔗 Repository | [GitHub](https://github.com/c-Morette/WarZ-Locker-V2) |
+
+---
+
 ### 📦 [Askal_InsuranceMod](https://github.com/c-Morette/Askal_InsuranceMod)
 **Item Insurance System** - Adds a complete item insurance system allowing players to protect valuable equipment from loss due to death. Includes an administrative interface.
 
@@ -103,6 +114,8 @@ Here are some of the DayZ mods I've worked on. Some are completed, others are st
 
 ### 📝 [DayZModsWIP](https://github.com/c-Morette/DayZModsWIP)
 **Work in Progress** - Contains mods for DayZ inspired by the old game WarZ / Infestation: Survivor Stories (2012). The goal is to recreate and adapt mechanics, objects, and systems to the DayZ environment.
+
+> The WarZ_Locker in this repository is the first version. The updated one is [WarZ Locker V2](https://github.com/c-Morette/WarZ-Locker-V2).
 
 | | Link |
 |---|---|
