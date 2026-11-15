@@ -101,6 +101,15 @@ Here are some of the DayZ mods I've worked on. Some are completed, others are st
 
 ---
 
+### 📝 [DayZModsWIP](https://github.com/c-Morette/DayZModsWIP)
+**Work in Progress** - Contains mods for DayZ inspired by the old game WarZ / Infestation: Survivor Stories (2012). The goal is to recreate and adapt mechanics, objects, and systems to the DayZ environment.
+
+| | Link |
+|---|---|
+| 🔗 Repository | [GitHub](https://github.com/c-Morette/DayZModsWIP) |
+
+---
+
 ## 🎮 Steam Workshop
 
 Explore all my mods and workshop files on Steam:
